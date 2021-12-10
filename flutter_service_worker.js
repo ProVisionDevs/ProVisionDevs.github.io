@@ -3,25 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "a256382cc2412179e07767466b7788c7",
-"index.html": "c2af61c9b8af0baf035afaf878465236",
-"/": "c2af61c9b8af0baf035afaf878465236",
-"main.dart.js": "53bd259b4056ce466e68daf7a3485e0f",
-"favicon.png": "0883bf190a46ebcafa0c50c18c9fbe07",
-"icons/Icon-192.png": "883b5f3d10f4ab33b11f006a309cf1ac",
-"icons/Icon-maskable-192.png": "437239364a67ed69c87e2d3b73aee0c6",
-"icons/Icon-maskable-512.png": "0ee0e11565eb0e04b8ebb69ff1510c49",
-"icons/Icon-512.png": "2cf3e550e5c1bb0d4449ef7b2dbc4c23",
+  "version.json": "e8966c0a244c96a9c4dad0ba06d4d895",
+"index.html": "ca06e016313d02ef96e355b9c7d6a6a7",
+"/": "ca06e016313d02ef96e355b9c7d6a6a7",
+"main.dart.js": "d63fff2d32343736cf9649e293eb397f",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
+"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "d98c67cd0704dd3299d273db60ecd4f8",
-"assets/AssetManifest.json": "4cdc9f0eb8fa7cdb3cf0bdf9d0887476",
-"assets/NOTICES": "73f1f4bf5c9de8f5e30fa78196fad096",
+"assets/AssetManifest.json": "382095d846c8f018539d5cb3563c7351",
+"assets/NOTICES": "a75712268ba7afba1792e37c77334710",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/provision_logo.png": "022ffa10dd10e6a3c223f93f617ccd08",
+"assets/assets/images/social/telegram.png": "8e1cf9fc04f7fad8fe5f7aed7663ed7c",
 "assets/assets/images/social/github.png": "802a0d1a1677939738288fe621352010",
 "assets/assets/images/social/twitter.png": "24ee3b2b7a88ca7d41a2cde9d3da6daf",
-"assets/assets/images/social/facebook.png": "1b2cc173d111b52177be9414df3f2ee0"
+"assets/assets/images/social/facebook.png": "1b2cc173d111b52177be9414df3f2ee0",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
 };
 
 // The application shell files that are downloaded before a service worker can
