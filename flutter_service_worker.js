@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "e8966c0a244c96a9c4dad0ba06d4d895",
-"index.html": "ea65bf1eabd386d4d71d721db822458e",
-"/": "ea65bf1eabd386d4d71d721db822458e",
-"main.dart.js": "2e04bf8b6165d8050e6ce15fd51c239d",
+"index.html": "a5a57d249316ef6e203d3ae96bb1d026",
+"/": "a5a57d249316ef6e203d3ae96bb1d026",
+"main.dart.js": "d63d6dbd169241af9417838d8bf0d2f5",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "02f0dad34c32ddcc852fce81d7f3defe",
 "icons/Icon-192.png": "f6388f431375707a7b4dd6f92b9359a9",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "2502151d76771e5f4fc65ae203af64aa",
 "manifest.json": "d98c67cd0704dd3299d273db60ecd4f8",
 "assets/AssetManifest.json": "edec28e272601b088cbea6a866c457e2",
-"assets/NOTICES": "2837790969bfd4869c08d526658ff437",
+"assets/NOTICES": "39c0491ebb01141bdde55e1ca334b413",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/images/social/telegram.png": "8e1cf9fc04f7fad8fe5f7aed7663ed7c",
