@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "e8966c0a244c96a9c4dad0ba06d4d895",
-"index.html": "968a002930339ff41e7d6c9235f58e78",
-"/": "968a002930339ff41e7d6c9235f58e78",
+"index.html": "4a0813ca93a6dac94c738f4a284b1334",
+"/": "4a0813ca93a6dac94c738f4a284b1334",
 "main.dart.js": "e62bec54ae837235be1f146b40fcb8be",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "02f0dad34c32ddcc852fce81d7f3defe",
@@ -14,11 +14,10 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "1ba15bf1b1b126f611a4216f9d217397",
 "icons/Icon-512.png": "2502151d76771e5f4fc65ae203af64aa",
 "manifest.json": "d98c67cd0704dd3299d273db60ecd4f8",
-"assets/AssetManifest.json": "cf01ca3a4d24c5703e68c15990cc2cff",
+"assets/AssetManifest.json": "0511cad3bd480639c1181c6a215b92e4",
 "assets/NOTICES": "2cf23d8c8e60c95b3ae0476a16b0b4ba",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/assets/coffee.png": "b681e40bb2f23823d297a2c97a0baf34",
 "assets/assets/images/social/discord_white.png": "96d671c31175b6bb8028725c57926f57",
 "assets/assets/images/social/facebook_black.png": "dd57eaef2ca72c03df6ac8ce7ac64735",
 "assets/assets/images/social/twitter_black.png": "19dcb822e92309c7e8f0ac6c850b2a68",
