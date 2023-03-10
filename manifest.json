@@ -1,6 +1,6 @@
 {
-    "name": "provision_devs",
-    "short_name": "provision_devs",
+    "name": "ProVision Devs",
+    "short_name": "ProVisionDevs",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
